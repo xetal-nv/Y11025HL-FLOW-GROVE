@@ -1,0 +1,25 @@
+Drill report for /home/marco/Data/XetalLocal/GIT/YugenFamily/YugenGate/Sensors/HW/Y11025HL/Y11025HL.kicad_pcb
+Created on Thu 01 Apr 2021 11:10:52 AM CEST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Y11025HL-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.30mm  0.012"  (27 holes)
+    T2  0.50mm  0.020"  (4 holes)
+    T3  0.65mm  0.026"  (5 holes)
+
+    Total plated holes count 36
+
+
+Drill file 'Y11025HL-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.20mm  0.087"  (2 holes)
+
+    Total unplated holes count 2

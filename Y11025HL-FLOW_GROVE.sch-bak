@@ -717,23 +717,23 @@ NoConn ~ 4975 2525
 NoConn ~ 4975 2625
 NoConn ~ 4975 1725
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H1
 U 1 1 6067BE9C
 P 7125 4650
-F 0 "H?" H 7225 4696 50  0000 L CNN
+F 0 "H1" H 7225 4696 50  0000 L CNN
 F 1 "MountingHole" H 7225 4605 50  0000 L CNN
-F 2 "" H 7125 4650 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7125 4650 50  0001 C CNN
 F 3 "~" H 7125 4650 50  0001 C CNN
 	1    7125 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H2
 U 1 1 6067D77F
 P 7125 4925
-F 0 "H?" H 7225 4971 50  0000 L CNN
+F 0 "H2" H 7225 4971 50  0000 L CNN
 F 1 "MountingHole" H 7225 4880 50  0000 L CNN
-F 2 "" H 7125 4925 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7125 4925 50  0001 C CNN
 F 3 "~" H 7125 4925 50  0001 C CNN
 	1    7125 4925
 	1    0    0    -1  

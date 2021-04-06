@@ -1,5 +1,4 @@
 (sym_lib_table
-  (lib (name Y12040HL-rescue)(type Legacy)(uri ${KIPRJMOD}/Y12040HL-rescue.lib)(options "")(descr ""))
-  (lib (name dspic33ep256gp502)(type Legacy)(uri ${KIPRJMOD}/SensorLib/dspic33ep256gp502.lib)(options "")(descr ""))
   (lib (name mlx90621)(type Legacy)(uri ${KIPRJMOD}/SensorLib/mlx90621.lib)(options "")(descr ""))
+  (lib (name dspic33ep256gp502)(type Legacy)(uri ${KIPRJMOD}/SensorLib/dspic33ep256gp502.lib)(options "")(descr ""))
 )
